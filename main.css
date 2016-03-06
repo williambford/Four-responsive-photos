@@ -1,1 +1,21 @@
-m
+body {
+  background-color: rgb(247,140,140);
+}
+
+.decision {
+
+}
+
+
+h1 {
+  color: white;
+  font-family: "arial black";
+  text-transform: uppercase;
+  font-size: 45px;
+}
+
+h2 {
+  color: white;
+  font-family: "arial";
+  font-size: 38px;
+}
