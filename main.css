@@ -3,19 +3,65 @@ body {
 }
 
 .decision {
-
+  width: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
 h1 {
-  color: white;
+  color: ivory;
   font-family: "arial black";
   text-transform: uppercase;
-  font-size: 45px;
+  font-size: 40px;
+  line-height: 40px;
+  padding: 5%;
 }
 
 h2 {
-  color: white;
+  color: ivory;
   font-family: "arial";
   font-size: 38px;
+  padding-top: 1%;
+}
+
+.container: {
+  width: 700px;
+}
+
+.img {
+  float: left;
+
+  <div class="container">
+
+}
+
+
+.category {
+  position: relative;
+  display: inline-block;
+  float: left;
+  padding: 10px;
+}
+
+.category2 {
+  position: relative;
+  display: inline-block;
+  float: left;
+  padding: 10px;
+}
+
+.category3 {
+  position: relative;
+  display: inline-block;
+  float: left;
+  padding: 10px;
+}
+
+.category4 {
+  position: relative;
+  display: inline-block;
+  float: left;
+  padding: 10px;
 }
