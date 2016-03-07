@@ -38,7 +38,27 @@ h2 {
 }
 
 
-.category {
+.candidates {
+ background-color: white;
+ width: 22%;
+ margin: 1%;
+ float:left;
+ text-align: center;
+ font-family: "arial"
+ border: solid white 2px;
+}
+
+.candidates img {
+  width: 100%
+}
+
+
+
+
+
+
+
+
   position: relative;
   display: inline-block;
   float: left;
@@ -65,3 +85,5 @@ h2 {
   float: left;
   padding: 10px;
 }
+
+</div>
