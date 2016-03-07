@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(247,140,140);
+  background-color: rgb(246,124,124);
 }
 
 .decision {
@@ -14,8 +14,8 @@ h1 {
   color: ivory;
   font-family: "arial black";
   text-transform: uppercase;
-  font-size: 40px;
-  line-height: 40px;
+  font-size: 45px;
+  line-height: 44px;
   padding: 5%;
 }
 
@@ -23,67 +23,27 @@ h2 {
   color: ivory;
   font-family: "arial";
   font-size: 38px;
+  line-height: 39px;
   padding-top: 1%;
 }
 
-.container: {
-  width: 700px;
-}
-
-.img {
-  float: left;
-
-  <div class="container">
-
-}
-
-
 .candidates {
  background-color: white;
- width: 22%;
+ width: 20%;
  margin: 1%;
  float:left;
  text-align: center;
  font-family: "arial"
  border: solid white 2px;
+
 }
 
 .candidates img {
   width: 100%
 }
+</div>
 
-
-
-
-
-
-
-
-  position: relative;
-  display: inline-block;
-  float: left;
-  padding: 10px;
+.footer {
+  width: 30%;
 }
-
-.category2 {
-  position: relative;
-  display: inline-block;
-  float: left;
-  padding: 10px;
-}
-
-.category3 {
-  position: relative;
-  display: inline-block;
-  float: left;
-  padding: 10px;
-}
-
-.category4 {
-  position: relative;
-  display: inline-block;
-  float: left;
-  padding: 10px;
-}
-
 </div>
