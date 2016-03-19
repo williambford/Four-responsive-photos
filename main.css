@@ -16,6 +16,7 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 30px;
 }
 
 
@@ -33,7 +34,6 @@ h2 {
   font-family: "arial";
   font-size: 38px;
   line-height: 39px;
-  padding-top: 1%;
 }
 
 .candidates {
